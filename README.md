@@ -4,7 +4,7 @@ Welcome to the front wildbook app!
 To start you need to pull two repositories:
 
 - the front: `git clone https://github.com/feliciebernard/wild-front-react.git`
-- the back: [get to the back repository] (git clone https://github.com/feliciebernard/wild-back-node.git)
+- the back: [get to the back repository](https://github.com/feliciebernard/wild-back-node.git)
 
 If you have docker, get started-me just with one command! ==> docker compose up --build
 
